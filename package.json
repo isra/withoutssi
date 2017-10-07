@@ -1,0 +1,20 @@
+{
+  "name": "inserthtml",
+  "version": "1.0.0",
+  "description": "Server without server side includes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replace",
+    "ssi"
+  ],
+  "author": "isra",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "underscore": "^1.8.3"
+  }
+}
